@@ -1,4 +1,4 @@
-### 一. React初体验
+### 一. React初体验
 #### 0. 使用淘宝镜像
 ```js
 npm config set registry https://registry.npm.taobao.org

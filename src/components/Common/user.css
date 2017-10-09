@@ -1,0 +1,13 @@
+.app {
+    min-height: 100vh;
+}
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: block;
+    margin: 30px auto;
+}
+h1 {
+    text-align: center;
+}

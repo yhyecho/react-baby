@@ -1,0 +1,14 @@
+.main {
+    flex-grow: 1;
+    background-color: #f8f8f8;
+}
+.stateDiv {
+    margin-top: 20px;
+    border: 2px solid deeppink;
+    width: 100px;
+    height: 50px;
+    border-radius: 3px;
+}
+.stateDiv.active {
+    background: deeppink;
+}
